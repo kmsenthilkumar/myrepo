@@ -2,5 +2,8 @@ Hello test
 firs
 
 direct committ
+<<<<<<< HEAD
 by feature a
 ts edited from branch-b
+=======
+>>>>>>> parent of 246bc42... changed by banch feature-b
